@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "search": {
+      "command": "npx",
+      "args": ["-y", "@example/search-mcp"],
+      "env": {
+        "SEARCH_API_KEY": "sk_test_FAKE0000000000000000EXAMPLE"
+      }
+    }
+  }
+}
